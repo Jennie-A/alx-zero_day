@@ -1,1 +1,1 @@
-I am a potential Software Engineer, hopefully
+Software Engineer in the making with ALX.

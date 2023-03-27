@@ -1,1 +1,1 @@
-Software Engineer in the making with ALX.
+Software Engineer in the making, in training with ALX.
